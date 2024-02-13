@@ -4,6 +4,6 @@
 
 สำหรับรายวิชา [OOP](https://udomporn896.githup.io)
 
-![banner](https://i.pinimg.com/originals/2f/b9/b2/2fb9b2364608b395174d1697c5398724.jpg)
+![dowmload banner](./banner.jpg)
 
 อุดมพร พิเคราะห์
